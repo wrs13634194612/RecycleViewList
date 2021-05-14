@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="uncheck_page_color">#D3EDFE</color> <!--暗宝石绿 -->
+    <color name="check_page_color">#21A5F9</color> <!--暗宝石绿 -->
+    <color name="c_FF9800">#FF9800</color>
+    <color name="c_cccccc">#cccccc</color>
+</resources>
